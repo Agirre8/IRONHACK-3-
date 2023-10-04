@@ -1,0 +1,36 @@
+h1 {
+    color: red;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 18px;
+    width: 400px;
+    text-indent: 50px;
+    text-align: justify;
+}
+
+.bloque {
+    width: 300px;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    color: white;
+}
+
+
+.rojo {
+    background-color: red;
+}
+
+.verde {
+    background-color: green;
+}
+
+.azul {
+    background-color: blue;
+}
+
+span {
+    /* Aquí puedes agregar estilos específicos para las etiquetas <span> si es necesario */
+}

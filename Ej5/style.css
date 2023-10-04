@@ -1,0 +1,39 @@
+body {
+    background-color: #00d1ae;
+    margin: 0;
+    padding: 0;
+}
+
+.menu {
+    width: 400px;
+    height: 50px;
+    background-color: #00d1ae;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.menu div {
+    background-color: #00d1ae;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.content {
+    width: 400px;
+    height: 200px;
+    background-color: red;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content div {
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
